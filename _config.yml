@@ -108,7 +108,7 @@ url-pretty: "andreybudish.com"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "andreybudish"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-106000974-1"
 
 # Google Tag Manager ID
 #gtm: ""
