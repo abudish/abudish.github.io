@@ -24,8 +24,8 @@ description: Andrey Budish - personal website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"    
+  Projects:
+  Book Reviews:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -56,7 +56,7 @@ author:
   email: "andreybudish@gmail.com"
   facebook: andrey.budish  # eg. daattali
   github: abudish    # eg. daattali
-  twitter: a_budish   # eg. daattali
+  twitter: AndreyBudish   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: andreybudish  # eg. daattali
@@ -101,7 +101,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "andreybudish-portfolio.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "andreybudish.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
