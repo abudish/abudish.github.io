@@ -7,7 +7,7 @@ date: '2017-09-06'
 ---
 ## Here we go...
 
-First time I a had an idea of creating a personal website about 2 years ago.
+First time I had an idea of creating a personal website about 2 years ago.
 Finally this day has come.
 
 This site will serve a few purposes: a playground for practicing writting, repository of book reviews and info about my projects. In future there might be some additional sections.
