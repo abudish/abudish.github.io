@@ -29,7 +29,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/Happy_Avatar.jpg"
+avatar: "/img/Ostap.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -108,7 +108,7 @@ url-pretty: "andreybudish.com"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "andreybudish"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-106000974-1"
+google_analytics: "UA-157886490-1"
 
 # Google Tag Manager ID
 #gtm: ""
