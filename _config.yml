@@ -111,7 +111,7 @@ disqus: "andreybudish"
 google_analytics: "UA-157886490-1"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "	GTM-TWB7WSH"
 
 # Facebook App ID
 # fb_app_id: ""
