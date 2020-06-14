@@ -12,9 +12,6 @@ Finally this day has come.
 
 This site will serve a few purposes: a playground for practicing writting, repository of book reviews and info about my projects. In future there might be some additional sections.
 
-
-If you happen to be in Kyiv, check out [Kyiv Book Club Meetup](https://www.meetup.com/preview/Kyiv-Book-Club).
-
 You can comment on any post by using a [Disqus account](https://disqus.com/).
 
 Cheers!
